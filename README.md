@@ -1,0 +1,1 @@
+This is a repo so I can remember how to use the basics of cmake and linking directories/subdirectores/libraries more than anything. I had a hard time finding a super basic one already up there so I threw one up real quick.
